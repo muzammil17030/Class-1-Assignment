@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    cursor: pointer;
+}
+h2{
+    text-decoration: underline;
+font-size: 29px;
+}
+li{
+    margin-left: 30px;
+    font-size: 25px;
+}

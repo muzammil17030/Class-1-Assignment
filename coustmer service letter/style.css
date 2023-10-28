@@ -1,0 +1,42 @@
+body{
+   
+    color: white;
+}
+
+.big{
+    padding-top: 10px;
+    background-color:black ;
+     margin-left: 20px;
+    margin-right: 20px;  
+}
+.first{
+    text-align: center;
+   
+}
+#pera{
+    margin-left: 300px;
+    font-size: 25px;
+}
+.second{
+    margin-left: 350px;
+    font-size: 20px;
+   
+}
+#heading{
+    margin-left: 300px;
+}
+#tera{
+   font-size: 20px;
+    margin-left: 350px;
+    text-align: ;
+}
+.hi{
+    padding-top: 0%;
+    width: 70%;
+    text-align: center;
+    margin-left: 30px;
+}
+#sincera{
+    font-size: 25px;
+    margin-left: 700px;
+}
